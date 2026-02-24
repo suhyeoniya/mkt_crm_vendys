@@ -2,7 +2,7 @@
 // ① Apps Script 배포 후 URL을 여기에 붙여넣기
 // =============================================
 const CONFIG = {
-  API_URL: 'YOUR_APPS_SCRIPT_URL_HERE'
+  API_URL: 'https://script.google.com/macros/s/AKfycbxcgnE833r5ksXc9LQAgoL87583Az1WsOAoi9E9PCRWxpyEDkI75afuvEYTc0V51V-Wfg/exec'
 };
 
 // =============================================
